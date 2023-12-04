@@ -10,7 +10,7 @@ I used the existing code and refactored it to meet accessibility standards.
 Following the **Scout Rule**, I tried to leave the code a little cleaner than when I found it, for example I consolidated several css elements into one.
 
 ## Steps I took 
-I added alt tags to all images with a written description of the immage.
+I added alt tags to all images with a written description of the image.
 
 I made sure that all links were functioning correctly.
 
@@ -24,7 +24,9 @@ I including comments before each change in HTML and CSS.
 
 I created the page title 'Horiseon'.
 
-I Ensured that the flow of HTML and CSS are in sequential order. 
+I Ensured that the flow of HTML and CSS are in sequential order.
+
+
 
 Below is the user story I worked from:
 
