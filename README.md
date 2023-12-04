@@ -28,15 +28,14 @@ I Ensured that the flow of HTML and CSS are in sequential order.
 
 
 
+
 Below is the user story I worked from:
 
 ### User Story
 
-```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-```
 
 ### Acceptance Criteria
 
