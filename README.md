@@ -1,17 +1,26 @@
-# 01 HTML CSS Git: Code Refactor
+
 
 ## My Task - To make codebase accessible
 
 
-This task was an on-the-job ticket, which meant I began with starter code that needed to be modified. This task involved a very important aspect of web development: **accessibility**. 
+This task was an on-the-job ticket, which meant I began with starter code that needed to be modified. This task involved an important aspect of web development: **accessibility**. 
 
 I used the existing code and refactored it to meet accessibility standards. 
 
 Following the **Scout Rule**, I tried to leave the code a little cleaner than when I found it, for example I consolidated several css elements into one.
 
-I made sure that all links were functioning correctly, and I also created an achor tag link to the horiseon logo in order to navigate to the home page. I reworked the CSS to make it more efficient by consolidating CSS selectors, and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+## Steps I took 
+I added alt tags to all images with a written description of the immage.
+I made sure that all links were functioning correctly.
+I also created an achor tag link to the horiseon logo in order to navigate to the home page.
+I reworked the CSS to make it more efficient by consolidating CSS selectors.
+I replaced div classes with semantics in HTML elements
+I including comments before each change in HTML and CSS
+I created the page title 'Horiseon'
+I Ensured that the flow of HTML and CSS are in sequential order. 
 
-Below is the user story
+Below is the user story I worked from:
+
 ### User Story
 
 ```
